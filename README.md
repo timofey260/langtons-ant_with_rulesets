@@ -9,3 +9,5 @@ write your own codes
 use r - turn right
 use l - turn left
 use c - not rotate
+
+requires pygame
